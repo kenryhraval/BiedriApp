@@ -10,7 +10,11 @@ https://app.flutterflow.io/project/biedri-lbd3k4
 https://biedri-lbd3k4.flutterflow.app/
 
 App tutorial
+
 a) After launching the app you are directed to The LoginAndSignup page. 
+
 b) Atfer logging in, you see MainFirstPage that contains a list of all existing clubs. When clicked on, you are redirected to GroupInfoPage, where is a more detailed information of the correcponding club. There is a button for joining it. 
+
 c) All the clubs you take part of, are shown in ProfilePageMain. When a club is clicked you are directed to GroupChatPage (a chat accessable only for the members). On ProfilePageMain the logged in user sees his personal information. He can also access the GroupManagment (manage the members or delete the club) and EditClub (edit info about club) pages for the clubs that he has created. You can navigate to ProfilePageMain by clicking the user icon on the navbar. 
+
 d) Similarly you can access the MapPage (a Google Map that shows markers of existing clubs), SettingsMain (edit your personal information, log out, delete user, see app tutorial, terms and services, contact info) or return to MainFirstPage.
